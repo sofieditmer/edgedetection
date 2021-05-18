@@ -64,10 +64,10 @@ $ python edgedetection.py –-ROI_coordinates 1400 880 2900 2800 --OCR "True"
 
 ### Output <br>
 When running the edge_detection.py script you will get four outputs saved in the specified output directory:
-1. ```image_with_ROI.jpg:``` the input image with the region of interest (ROI) drawn on top of it.
-2. ```image_cropped.jpg:``` the input image cropped to only contain the region of interest (ROI).
-3. ```image_letters.jpg:``` the cropped input image with the detected letters outlined in green.
-4. ```image_OCR_text.txt:``` the extracted text from the image using pytesseract OCR.
+1. ```image_with_ROI.jpg```: the input image with the region of interest (ROI) drawn on top of it.
+2. ```image_cropped.jpg```: the input image cropped to only contain the region of interest (ROI).
+3. ```image_letters.jpg```: the cropped input image with the detected letters outlined in green.
+4. ```image_OCR_text.txt```: the extracted text from the image using pytesseract OCR.
 
 
 ### License <br>
