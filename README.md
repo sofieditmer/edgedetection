@@ -17,7 +17,7 @@ The repository follows the overall structure presented below. The python ```edge
 | ```utils``` | A folder containing utility scripts that store functions that are used within the main python script.
 | ```requirements.txt```| A file containing the dependencies necessary to run the python script.
 | ```create_edgedetection_venv.sh```| A bash-file that creates a virtual environment in which the necessary dependencies listed in the requirements.txt are installed. This script should be run from the command line.
-| LICENSE | A file declaring the license type of the repository.
+| ```LICENSE``` | A file declaring the license type of the repository.
 
 
 ### Usage and Technicalities <br>
