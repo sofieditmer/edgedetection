@@ -71,7 +71,7 @@ When running the edge_detection.py script you will get four outputs saved in the
 
 
 ### License <br>
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sofieditmer/edgedetection/blob/main/LICENSE) file for details.
 
 ### Contact details <br>
 If you have any questions feel free to contact me on [201805308@post.au.dk](201805308@post.au.dk)
